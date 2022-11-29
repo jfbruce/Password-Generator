@@ -14,6 +14,8 @@ To start the page, click on the "Generate password" button and you will be given
 
 If any inputs are not valid the page will alert you and reset, you can reselect "Generate Password" and input correct responses. 
 
+Click [here](https://jfbruce.github.io/Password-Generator/) to go to the Password Generator. 
+
 ## Credits
 
 No external images or content used on the page.
